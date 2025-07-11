@@ -1,6 +1,6 @@
 # Striverdsa
 
 ## stacks and queue
-1.implement stack using arrays
-2.implement queue using array
-3.implement stack using queue
+- implement stack using arrays
+- implement queue using array
+- implement stack using queue
